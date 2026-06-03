@@ -1,4 +1,4 @@
-name: 399_email_tool
+name: email_tool
 display_name: 邮箱工具
 desc: 一个能让AI自主决定SMTP发送邮件的函数工具，支持服务器内存告警和NapCat下线告警。
 help: 提供调用SMTP邮件服务的函数工具，支持服务器内存告警和NapCat下线告警。
