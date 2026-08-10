@@ -1,3 +1,18 @@
+<div align="center">
+
+![:name](https://count.getloli.com/@email_tool?name=email_tool&theme=minecraft&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
+# AstrBot Email Tool
+
+_✨ 让 LLM 自主发送 HTML 邮件 ✨_
+
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![AstrBot](https://img.shields.io/badge/AstrBot-3.4%2B-orange.svg)](https://github.com/Soulter/AstrBot)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![GitHub](https://img.shields.io/badge/作者-ERX399-blue)](https://github.com/ERX399)
+
+</div>
+
 astrbot_plugin_email_tool
 =========================
 
